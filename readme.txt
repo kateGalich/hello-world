@@ -1,1 +1,2 @@
-Hello. It's a nice day today!
+Print something
+Hello. It's a nice day
